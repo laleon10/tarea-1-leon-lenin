@@ -19,6 +19,7 @@ La notación científica es un método estándar empleado para representar núme
 La notación de ingeniería es un método estándar empleado para representar cantidades con dos o tres dígitos a la izquierda del punto decimal multiplicados por una potencia de diez que es un múltiplo de tres.
 Las tablas de prefijos métricos que representan potencias de diez en números expresados en notación de ingeniería presentes en los tablas proporcionadas.
  ![image](https://user-images.githubusercontent.com/116819463/201064805-001dd3de-45c9-4b7b-bb26-83e37112b60e.png)
+![Post de instagram infografía con fechas y datos](https://user-images.githubusercontent.com/116819463/201120757-629e508d-f5c0-4b80-880a-8b6a8363cca8.png)
 
 ### CAP 2 
 -El estudio de los átomos que es un  átomo: es la partícula más pequeña de un elemento que conserva las características de dicho elemento. Los partes que conforman un átomo como los electrones Cuando los electrones presentes en la órbita externa de un átomo se escapan que se convierten en electrones libres. Los electrones libres hacen posible la corriente. Las cargas iguales se repelen y cargas opuestas se atraen. Se debe aplicar voltaje a un circuito para producir corriente. La resistencia limita la corriente.
@@ -28,6 +29,7 @@ Las tablas de prefijos métricos que representan potencias de diez en números e
 
 -Los símbolos eléctricos introducidos.
  ![image](https://user-images.githubusercontent.com/116819463/201064725-058a7537-d559-4b98-84dc-0e68526a38c2.png)
+![Post de instagram línea de tiempo infografía organizado multicolor](https://user-images.githubusercontent.com/116819463/201123421-aa124074-1a7b-4b08-9db6-fb20797da6c5.png)
 
 #### EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
  ### Resolución:
@@ -50,10 +52,10 @@ Usando las notaciones científicas para las reducciones:
 ### 15. Exprese cada número en notación de ingeniería:
 ### R: a) 〖345 x 10〗^(-6)  b) 〖25 x 10〗^(-3)  c) 〖1.29 x 10〗^(-6)
 ### 17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
-###〖R: a)7.1 x 10〗^(-3)  b) 〖101 x 10〗^6  c) 〖1.29 x 10〗^(-9)
+### R: a)7.1 x 10〗^(-3)  b) 〖101 x 10〗^6  c) 〖1.29 x 10〗^(-9)
 ### 19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:
 ### R: 〖a)22.7 x 10〗^(-3)  b) 〖200 x 10〗^6  c) 〖848 x 10〗^(-3)
-###Las tablas de prefijos métricos para las reducciones:
+### Las tablas de prefijos métricos para las reducciones:
 ### 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
 ### R: a)345μA  b) 345μA  c) 345μA
 ### 23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
